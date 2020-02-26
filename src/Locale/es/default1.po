@@ -1,0 +1,752 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2016-08-18 12:04+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/EmpresasController.php:39
+#: Controller/UsersController.php:106;136
+msgid "Your article has been updated."
+msgstr ""
+
+#: Controller/EmpresasController.php:42
+#: Controller/UsersController.php:109;139
+msgid "Unable to update your article."
+msgstr ""
+
+#: Controller/EmpresasController.php:70
+#: Controller/ProdutosController.php:72
+msgid "Empresa foi salva."
+msgstr ""
+
+#: Controller/EmpresasController.php:73
+#: Controller/ProdutosController.php:76
+msgid "Erro ao salva empresa."
+msgstr ""
+
+#: Controller/ProdutosController.php:48
+msgid "Altura 1,00m x Largura 1,20m"
+msgstr ""
+
+#: Controller/ProdutosController.php:68
+msgid "nao foi salvo. VC CANCELOU CARA!."
+msgstr ""
+
+#: Controller/UsersController.php:158
+msgid "Your article has been saved."
+msgstr ""
+
+#: Controller/UsersController.php:161
+msgid "Unable to add your article."
+msgstr ""
+
+#: Controller/UsersController.php:181
+msgid "Username or password is incorrect"
+msgstr ""
+
+#: Template/Dashboards/index.ctp:22
+#: Template/Empresas/index.ctp:9
+#: Template/Layout/default.ctp:167
+msgid "Empresas"
+msgstr ""
+
+#: Template/Dashboards/index.ctp:35
+#: Template/Layout/default.ctp:179
+msgid "Usuários"
+msgstr ""
+
+#: Template/Empresas/add.ctp:4;8
+#: Template/Empresas/edit.ctp:4;8
+#: Template/Empresas/index.ctp:26
+msgid "Nova empresa"
+msgstr ""
+
+#: Template/Empresas/add.ctp:23
+#: Template/Empresas/edit.ctp:23
+#: Template/Users/add.ctp:23
+#: Template/Users/edit.ctp:23
+msgid "Informações"
+msgstr ""
+
+#: Template/Empresas/add.ctp:35
+#: Template/Empresas/edit.ctp:35
+msgid "Nome Fantasia"
+msgstr ""
+
+#: Template/Empresas/add.ctp:39
+#: Template/Empresas/edit.ctp:39
+#: Template/Empresas/index.ctp:60
+msgid "Razão Social"
+msgstr ""
+
+#: Template/Empresas/add.ctp:44
+#: Template/Empresas/edit.ctp:44
+msgid "Franqueado Cebrace"
+msgstr ""
+
+#: Template/Empresas/add.ctp:64
+#: Template/Empresas/edit.ctp:67
+#: Template/Empresas/index.ctp:62
+#: Template/Empresas/indexAntigo.ctp:8
+msgid "CNPJ"
+msgstr ""
+
+#: Template/Empresas/add.ctp:67
+#: Template/Empresas/edit.ctp:70
+#: Template/Empresas/index.ctp:63
+msgid "Endereço"
+msgstr ""
+
+#: Template/Empresas/add.ctp:71
+#: Template/Empresas/edit.ctp:74
+#: Template/Empresas/index.ctp:64
+msgid "Bairro"
+msgstr ""
+
+#: Template/Empresas/add.ctp:74
+#: Template/Empresas/edit.ctp:77
+#: Template/Empresas/index.ctp:65
+msgid "Cidade"
+msgstr ""
+
+#: Template/Empresas/add.ctp:116
+#: Template/Empresas/edit.ctp:119
+#: Template/Empresas/index.ctp:67
+msgid "CEP"
+msgstr ""
+
+#: Template/Empresas/add.ctp:120
+#: Template/Empresas/edit.ctp:123
+#: Template/Empresas/index.ctp:68
+msgid "Contato"
+msgstr ""
+
+#: Template/Empresas/add.ctp:124
+#: Template/Empresas/edit.ctp:127
+#: Template/Users/add.ctp:38
+#: Template/Users/edit.ctp:38
+#: Template/Users/index.ctp:69
+#: Template/Users/perfil.ctp:42;91
+msgid "Telefone"
+msgstr ""
+
+#: Template/Empresas/add.ctp:128
+#: Template/Empresas/edit.ctp:131
+#: Template/Users/add.ctp:41
+#: Template/Users/edit.ctp:41
+#: Template/Users/index.ctp:70
+#: Template/Users/perfil.ctp:47;94
+msgid "E-mail"
+msgstr ""
+
+#: Template/Empresas/add.ctp:137
+#: Template/Empresas/edit.ctp:140
+#: Template/Empresas/indexAntigo.ctp:10;19
+#: Template/Users/add.ctp:67
+#: Template/Users/edit.ctp:67
+#: Template/Users/indexbkp.ctp:112
+msgid "Ativo"
+msgstr ""
+
+#: Template/Empresas/add.ctp:158
+#: Template/Empresas/edit.ctp:161
+#: Template/Produtos/add.ctp:310
+#: Template/Users/perfil.ctp:153
+msgid "Cancelar"
+msgstr ""
+
+#: Template/Empresas/add.ctp:159
+#: Template/Empresas/edit.ctp:162
+#: Template/Users/add.ctp:88
+#: Template/Users/edit.ctp:88
+#: Template/Users/perfil.ctp:154
+msgid "Salvar"
+msgstr "SALVAER EM ES"
+
+#: Template/Empresas/index.ctp:5
+msgid "Cadastrar empresas"
+msgstr ""
+
+#: Template/Empresas/index.ctp:36
+msgid "Empresas do sistema"
+msgstr ""
+
+#: Template/Empresas/index.ctp:45
+msgid "Digite o nome da empresa"
+msgstr ""
+
+#: Template/Empresas/index.ctp:59
+msgid "Nome fantasia"
+msgstr ""
+
+#: Template/Empresas/index.ctp:61
+msgid "Empresa principal"
+msgstr ""
+
+#: Template/Empresas/index.ctp:66
+msgid "Estado"
+msgstr ""
+
+#: Template/Empresas/index.ctp:69
+#: Template/Users/index.ctp:71
+msgid "Status"
+msgstr ""
+
+#: Template/Empresas/index.ctp:77
+msgid "<td></td>"
+msgstr ""
+
+#: Template/Empresas/index.ctp:78
+msgid "<td>Cebrace</td>"
+msgstr ""
+
+#: Template/Empresas/indexAntigo.ctp:3
+msgid "Lista de empresas"
+msgstr ""
+
+#: Template/Empresas/indexAntigo.ctp:7
+#: Template/Users/indexbkp.ctp:109
+msgid "Nome"
+msgstr ""
+
+#: Template/Empresas/indexAntigo.ctp:9
+msgid "Endereco"
+msgstr ""
+
+#: Template/Empresas/indexAntigo.ctp:19
+msgid "Desativado"
+msgstr ""
+
+#: Template/Layout/default.ctp:103
+msgid "Editar perfil"
+msgstr ""
+
+#: Template/Layout/default.ctp:108
+msgid "Sair"
+msgstr ""
+
+#: Template/Layout/default.ctp:150
+msgid "Dashboard"
+msgstr ""
+
+#: Template/Layout/default.ctp:187
+msgid "Gerenciar usuários"
+msgstr ""
+
+#: Template/Layout/default.ctp:189
+msgid "Liberar solicitações"
+msgstr ""
+
+#: Template/Pedidos/gerar.ctp:4
+msgid "Gerando pedido"
+msgstr ""
+
+#: Template/Pedidos/index.ctp:3
+msgid "Lista de pedidos"
+msgstr ""
+
+#: Template/Pedidos/index.ctp:21
+msgid "Aguardando confirmacao da adiminstracao"
+msgstr ""
+
+#: Template/Pedidos/index.ctp:21
+msgid "Pedido Recebido"
+msgstr ""
+
+#: Template/Produtos/add.ctp:4;8
+msgid "Novo pedido"
+msgstr ""
+
+#: Template/Produtos/add.ctp:25
+msgid "Medida da janela"
+msgstr ""
+
+#: Template/Produtos/add.ctp:56
+msgid "Escolha a medida"
+msgstr ""
+
+#: Template/Produtos/add.ctp:65;136;144;249;263;278
+msgid "Selecione"
+msgstr ""
+
+#: Template/Produtos/add.ctp:72
+msgid "Medida especial"
+msgstr ""
+
+#: Template/Produtos/add.ctp:118
+msgid "Configurações do pedido"
+msgstr ""
+
+#: Template/Produtos/add.ctp:130;131
+msgid "Quantidade de janelas"
+msgstr ""
+
+#: Template/Produtos/add.ctp:135
+msgid "Quantidade de folhas"
+msgstr ""
+
+#: Template/Produtos/add.ctp:143
+msgid "Tipo de vidro"
+msgstr ""
+
+#: Template/Produtos/add.ctp:168
+msgid "Vidro especial"
+msgstr ""
+
+#: Template/Produtos/add.ctp:171
+msgid "Descreva o vidro especial"
+msgstr ""
+
+#: Template/Produtos/add.ctp:186
+msgid "Padrão: lado esquerdo"
+msgstr ""
+
+#: Template/Produtos/add.ctp:248
+msgid "Capas de acabamento"
+msgstr ""
+
+#: Template/Produtos/add.ctp:262
+msgid "Cor de acabamento interno"
+msgstr ""
+
+#: Template/Produtos/add.ctp:277
+msgid "Cor de acabamento externo"
+msgstr ""
+
+#: Template/Produtos/add.ctp:291
+msgid "Cor de acabamento especial"
+msgstr ""
+
+#: Template/Produtos/add.ctp:294
+msgid "Descreva a cor de acabamento especial"
+msgstr ""
+
+#: Template/Produtos/add.ctp:299
+msgid "Transportadora"
+msgstr ""
+
+#: Template/Produtos/add.ctp:300
+msgid "Informe os dados da transportadora (endereço completo, telefone, e-mail etc)"
+msgstr ""
+
+#: Template/Produtos/add.ctp:311
+msgid "Solicitar pedido"
+msgstr ""
+
+#: Template/Users/add.ctp:4
+#: Template/Users/index.ctp:29
+msgid "Novo usu?rio"
+msgstr ""
+
+#: Template/Users/add.ctp:8
+msgid "Usurios"
+msgstr ""
+
+#: Template/Users/add.ctp:35
+#: Template/Users/edit.ctp:35
+#: Template/Users/perfil.ctp:88
+msgid "Nome Completo"
+msgstr ""
+
+#: Template/Users/add.ctp:43
+#: Template/Users/edit.ctp:43
+#: Template/Users/index.ctp:68
+#: Template/Users/perfil.ctp:35;96
+msgid "Empresa"
+msgstr ""
+
+#: Template/Users/add.ctp:46
+#: Template/Users/edit.ctp:46
+#: Template/Users/perfil.ctp:130
+msgid "password"
+msgstr ""
+
+#: Template/Users/add.ctp:48
+#: Template/Users/perfil.ctp:99
+msgid "Permiss?o"
+msgstr ""
+
+#: Template/Users/add.ctp:49
+#: Template/Users/edit.ctp:49
+#: Template/Users/perfil.ctp:56;100
+msgid "Administrador"
+msgstr ""
+
+#: Template/Users/add.ctp:50
+#: Template/Users/edit.ctp:50
+#: Template/Users/perfil.ctp:58;101
+msgid "Pedidos"
+msgstr ""
+
+#: Template/Users/add.ctp:51
+#: Template/Users/perfil.ctp:102
+msgid "Relat?rio"
+msgstr ""
+
+#: Template/Users/edit.ctp:48
+msgid "Permiss?o"
+msgstr ""
+
+#: Template/Users/edit.ctp:51
+msgid "Relat?rio"
+msgstr ""
+
+#: Template/Users/index.ctp:8
+msgid "Cadastrar usu?rios"
+msgstr ""
+
+#: Template/Users/index.ctp:12
+msgid "Usu?rios"
+msgstr ""
+
+#: Template/Users/index.ctp:42
+msgid "Usu?rios do sistema"
+msgstr ""
+
+#: Template/Users/index.ctp:53
+msgid "Digite o nome do usu?rio"
+msgstr ""
+
+#: Template/Users/index.ctp:67
+msgid "Nome completo"
+msgstr ""
+
+#: Template/Users/index.ctp:83
+msgid "<td><span class='label label-default'>Inativo</span></td>"
+msgstr ""
+
+#: Template/Users/index.ctp:84
+msgid "<td><span class='label label-primary'>Ativo</span></td>"
+msgstr ""
+
+#: Template/Users/indexbkp.ctp:95
+msgid "Buscar"
+msgstr ""
+
+#: Template/Users/indexbkp.ctp:105
+msgid "Lista de Usuario"
+msgstr ""
+
+#: Template/Users/indexbkp.ctp:110
+msgid "empresa"
+msgstr ""
+
+#: Template/Users/indexbkp.ctp:111
+msgid "Permissao"
+msgstr ""
+
+#: Template/Users/login.ctp:38
+msgid "Entrar"
+msgstr ""
+
+#: Template/Users/perfil.ctp:52
+msgid "Permissão"
+msgstr ""
+
+#: Template/Users/perfil.ctp:60
+msgid "Relatório"
+msgstr ""
+
+#: Template/Empresas/index.ctp:110
+#: Template/Users/index.ctp:105
+#: Template/Users/indexbkp.ctp:54
+msgid "previous"
+msgstr ""
+
+#: Template/Empresas/index.ctp:112
+#: Template/Users/index.ctp:107
+#: Template/Users/indexbkp.ctp:56
+msgid "next"
+msgstr ""
+
+#: Template/Error/error400.ctp:36
+#: Template/Error/error500.ctp:41
+msgid "Error"
+msgstr ""
+
+#: Template/Error/error400.ctp:38
+msgid "The requested address %s was not found on this server."
+msgstr ""
+
+#: Template/Error/error500.ctp:39
+msgid "An Internal Error Has Occurred"
+msgstr ""
+
+#: Controller/Component/AuthComponent.php:454
+msgid "You are not authorized to access that location."
+msgstr ""
+
+#: Controller/Component/CsrfComponent.php:154
+msgid "Missing CSRF token cookie"
+msgstr ""
+
+#: Controller/Component/CsrfComponent.php:158
+msgid "CSRF token mismatch."
+msgstr ""
+
+#: Error/ExceptionRenderer.php:247
+msgid "Not Found"
+msgstr ""
+
+#: Error/ExceptionRenderer.php:249
+msgid "An Internal Error Has Occurred."
+msgstr ""
+
+#: I18n/Number.php:89
+msgid "{0,number,#,###.##} KB"
+msgstr ""
+
+#: I18n/Number.php:91
+msgid "{0,number,#,###.##} MB"
+msgstr ""
+
+#: I18n/Number.php:93
+msgid "{0,number,#,###.##} GB"
+msgstr ""
+
+#: I18n/Number.php:95
+msgid "{0,number,#,###.##} TB"
+msgstr ""
+
+#: I18n/Number.php:87
+msgid "{0,number,integer} Byte"
+msgid_plural "{0,number,integer} Bytes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} from now"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:82
+msgid "{0} after"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:82
+msgid "{0} before"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:113
+msgid "just now"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:150
+msgid "about a second ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:151
+msgid "about a minute ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:152
+msgid "about an hour ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:153;328
+msgid "about a day ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:154;329
+msgid "about a week ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:155;330
+msgid "about a month ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:156;331
+msgid "about a year ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:166
+msgid "in about a second"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:167
+msgid "in about a minute"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:168
+msgid "in about an hour"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:169;341
+msgid "in about a day"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:170;342
+msgid "in about a week"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:171;343
+msgid "in about a month"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:172;344
+msgid "in about a year"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:300
+msgid "today"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:364
+msgid "%s ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:365
+msgid "on %s"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:47;125;312
+msgid "{0} year"
+msgid_plural "{0} years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:51;128;315
+msgid "{0} month"
+msgid_plural "{0} months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:57;131;318
+msgid "{0} week"
+msgid_plural "{0} weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:59;134;321
+msgid "{0} day"
+msgid_plural "{0} days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:64;137
+msgid "{0} hour"
+msgid_plural "{0} hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:68;140
+msgid "{0} minute"
+msgid_plural "{0} minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:72;143
+msgid "{0} second"
+msgid_plural "{0} seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: Network/Response.php:1417
+msgid "The requested file was not found"
+msgstr ""
+
+#: ORM/RulesChecker.php:50
+msgid "This value is already in use"
+msgstr ""
+
+#: ORM/RulesChecker.php:84
+msgid "This value does not exist"
+msgstr ""
+
+#: ORM/RulesChecker.php:107
+msgid "The count does not match {0}{1}"
+msgstr ""
+
+#: Utility/Text.php:744
+msgid "and"
+msgstr ""
+
+#: Validation/Validator.php:103
+msgid "This field is required"
+msgstr ""
+
+#: Validation/Validator.php:104
+msgid "This field cannot be left empty"
+msgstr ""
+
+#: Validation/Validator.php:1501
+msgid "The provided value is invalid"
+msgstr ""
+
+#: View/Helper/FormHelper.php:947
+msgid "New %s"
+msgstr ""
+
+#: View/Helper/FormHelper.php:950
+msgid "Edit %s"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1770
+msgid "Submit"
+msgstr ""
+
+#: View/Helper/HtmlHelper.php:770
+msgid "Home"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:530
+msgid "January"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:531
+msgid "February"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:532
+msgid "March"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:533
+msgid "April"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:534
+msgid "May"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:535
+msgid "June"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:536
+msgid "July"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:537
+msgid "August"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:538
+msgid "September"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:539
+msgid "October"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:540
+msgid "November"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:541
+msgid "December"
+msgstr ""
+

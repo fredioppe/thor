@@ -1,0 +1,1318 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2016-12-06 10:42+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/AppController.php:91
+msgid "Este usuário está momentaneamente desativado, entre em contato com o administrador do sistema pelo telefone +55 11 4422.4722 ou pelo e-mail avec@avec.com.br."
+msgstr ""
+
+#: Controller/EmpresasController.php:64;125
+#: Controller/ProdutosController.php:104
+#: Controller/TiposvidrosController.php:33;65
+#: Controller/UsersController.php:124;151
+msgid "Informações salvas com sucesso."
+msgstr ""
+
+#: Controller/ProdutosController.php:707
+msgid "Pedido solicitado com sucesso."
+msgstr ""
+
+#: Controller/ProdutosController.php:711
+msgid "Erro ao salva adicionar Pedido."
+msgstr ""
+
+#: Controller/UsersController.php:186
+msgid "Tem certeza que deseja sair dessa página? Você perderá todas as informações."
+msgstr ""
+
+#: Controller/UsersController.php:207
+msgid "Usuário cadastrado com sucesso."
+msgstr ""
+
+#: Controller/UsersController.php:274
+msgid "Email ou senha incorreta!"
+msgstr ""
+
+#: Controller/UsersController.php:312
+msgid "ERRO, não foi possivel localizar seu email."
+msgstr ""
+
+#: Controller/UsersController.php:370;409;451
+msgid "ERRO, não foi possivel enviar email."
+msgstr ""
+
+#: Model/Table/EmpresasTable.php:36;42
+#: Model/Table/UsersTable.php:29;49
+msgid "My error message"
+msgstr ""
+
+#: Template/Dashboards/index.ctp:4
+#: Template/Dashboards/indexadm.ctp:5
+#: Template/Layout/default.ctp:166
+msgid "Início"
+msgstr ""
+
+#: Template/Dashboards/index.ctp:5
+#: Template/Dashboards/indexadm.ctp:6
+msgid "Versão 1.0"
+msgstr ""
+
+#: Template/Dashboards/index.ctp:8
+#: Template/Dashboards/indexadm.ctp:9
+#: Template/Empresas/add.ctp:7
+#: Template/Empresas/edit.ctp:8
+#: Template/Empresas/index.ctp:10
+#: Template/Produtos/add.ctp:7
+#: Template/Produtos/altstatus.ctp:7
+#: Template/Produtos/altstatuspedido.ctp:8
+#: Template/Produtos/index.ctp:11
+#: Template/Produtos/relatorio.ctp:18
+#: Template/Tiposvidros/add.ctp:7
+#: Template/Tiposvidros/edit.ctp:8
+#: Template/Tiposvidros/index.ctp:10
+msgid " Início"
+msgstr ""
+
+#: Template/Dashboards/index.ctp:23
+#: Template/Dashboards/indexadm.ctp:24
+#: Template/Empresas/index.ctp:14
+#: Template/Layout/default.ctp:187
+msgid "Empresas"
+msgstr ""
+
+#: Template/Dashboards/index.ctp:36
+#: Template/Dashboards/indexadm.ctp:37
+#: Template/Layout/default.ctp:192
+#: Template/Users/edit.ctp:11
+#: Template/Users/index.ctp:12
+msgid "Usuários"
+msgstr ""
+
+#: Template/Dashboards/index.ctp:51;147
+#: Template/Dashboards/indexadm.ctp:52
+#: Template/Produtos/index.ctp:15;103
+#: Template/Produtos/relatorio.ctp:146
+#: Template/Users/add.ctp:74
+#: Template/Users/edit.ctp:59
+#: Template/Users/perfil.ctp:63;107;113
+msgid "Pedidos"
+msgstr ""
+
+#: Template/Dashboards/index.ctp:64
+#: Template/Dashboards/indexadm.ctp:65
+msgid "Janelas"
+msgstr ""
+
+#: Template/Dashboards/index.ctp:105
+#: Template/Users/perfil.ctp:6;10
+msgid "Meus dados"
+msgstr ""
+
+#: Template/Dashboards/index.ctp:106
+msgid "Atualize as informações do seu perfil."
+msgstr ""
+
+#: Template/Dashboards/index.ctp:111
+msgid "Ver minhas informações "
+msgstr ""
+
+#: Template/Dashboards/index.ctp:127
+#: Template/Dashboards/indexadm.ctp:196
+#: Template/Layout/default.ctp:198
+#: Template/Produtos/relatorio.ctp:15;22
+msgid "Relatórios"
+msgstr ""
+
+#: Template/Dashboards/index.ctp:128
+#: Template/Dashboards/indexadm.ctp:197
+msgid "Analise os relatórios de vendas."
+msgstr ""
+
+#: Template/Dashboards/index.ctp:133
+#: Template/Dashboards/indexadm.ctp:202
+msgid "Ver relatórios "
+msgstr ""
+
+#: Template/Dashboards/index.ctp:148
+msgid "Faça novos pedidos ou confira o histórico dos seus pedidos."
+msgstr ""
+
+#: Template/Dashboards/index.ctp:154
+#: Template/Dashboards/indexadm.ctp:171
+msgid "Gerenciar pedidos "
+msgstr ""
+
+#: Template/Dashboards/indexadm.ctp:109
+msgid "Links para agilizar o seu trabalho"
+msgstr ""
+
+#: Template/Dashboards/indexadm.ctp:110
+msgid " Fazer pedidos"
+msgstr ""
+
+#: Template/Dashboards/indexadm.ctp:115
+msgid " Visualizar pedidos"
+msgstr ""
+
+#: Template/Dashboards/indexadm.ctp:120
+msgid " Cadastrar uma empresa"
+msgstr ""
+
+#: Template/Dashboards/indexadm.ctp:125
+msgid " Cadastrar usuários"
+msgstr ""
+
+#: Template/Dashboards/indexadm.ctp:130
+msgid " Editar meus dados"
+msgstr ""
+
+#: Template/Dashboards/indexadm.ctp:150
+msgid "Cadastro de empresas"
+msgstr ""
+
+#: Template/Dashboards/indexadm.ctp:151
+msgid "Comece a cadastrar empresas e franqueados."
+msgstr ""
+
+#: Template/Dashboards/indexadm.ctp:157
+msgid "Gerenciar empresas "
+msgstr ""
+
+#: Template/Dashboards/indexadm.ctp:165
+msgid "Pedidos recebidos"
+msgstr ""
+
+#: Template/Dashboards/indexadm.ctp:166
+msgid "Confira os pedidos recebidos e altere o status de acordo com a produção."
+msgstr ""
+
+#: Template/Dashboards/indexadm.ctp:182
+msgid "Cadastro de usuários"
+msgstr ""
+
+#: Template/Dashboards/indexadm.ctp:183
+msgid "Cadastre novos usuários."
+msgstr ""
+
+#: Template/Dashboards/indexadm.ctp:188
+msgid "Gerenciar usuários "
+msgstr ""
+
+#: Template/Element/Flash/default.ctp:11
+#: Template/Produtos/add.ctp:317
+msgid "Atenção!"
+msgstr ""
+
+#: Template/Element/Flash/default.ctp:12
+msgid "Para ter acesso a essa página você deve fazer login no sistema."
+msgstr ""
+
+#: Template/Element/Flash/modalcancel.ctp:47
+#: Template/Empresas/add.ctp:387;488
+#: Template/Empresas/edit.ctp:381;480;502
+#: Template/Produtos/add.ctp:299;359
+#: Template/Produtos/altstatus.ctp:190;215;389
+#: Template/Users/add.ctp:207;231
+#: Template/Users/edit.ctp:211
+#: Template/Users/perfil.ctp:192;261
+msgid "Cancelar"
+msgstr ""
+
+#: Template/Empresas/add.ctp:4;11
+#: Template/Empresas/edit.ctp:5;12
+#: Template/Tiposvidros/add.ctp:4
+#: Template/Tiposvidros/edit.ctp:5;12
+msgid "Nova empresa"
+msgstr ""
+
+#: Template/Empresas/add.ctp:82
+#: Template/Empresas/edit.ctp:83
+#: Template/Tiposvidros/add.ctp:27
+#: Template/Tiposvidros/edit.ctp:23
+#: Template/Users/add.ctp:26
+#: Template/Users/edit.ctp:26
+msgid "Informações"
+msgstr ""
+
+#: Template/Empresas/add.ctp:94
+#: Template/Empresas/edit.ctp:95
+msgid "Nome Fantasia"
+msgstr ""
+
+#: Template/Empresas/add.ctp:98
+#: Template/Empresas/edit.ctp:99
+#: Template/Empresas/index.ctp:69
+msgid "Razão Social"
+msgstr ""
+
+#: Template/Empresas/add.ctp:103
+#: Template/Empresas/edit.ctp:104
+msgid "Franqueado Cebrace"
+msgstr ""
+
+#: Template/Empresas/add.ctp:137
+#: Template/Empresas/edit.ctp:130
+#: Template/Empresas/index.ctp:72
+msgid "Endereço"
+msgstr ""
+
+#: Template/Empresas/add.ctp:141
+#: Template/Empresas/edit.ctp:134
+#: Template/Empresas/index.ctp:73
+msgid "Bairro"
+msgstr ""
+
+#: Template/Empresas/add.ctp:145
+#: Template/Empresas/edit.ctp:138
+#: Template/Empresas/index.ctp:75
+msgid "Estado"
+msgstr ""
+
+#: Template/Empresas/add.ctp:150
+#: Template/Empresas/edit.ctp:145
+#: Template/Empresas/index.ctp:74
+msgid "Cidade"
+msgstr ""
+
+#: Template/Empresas/add.ctp:162
+#: Template/Empresas/edit.ctp:161
+#: Template/Empresas/index.ctp:76
+msgid "CEP"
+msgstr ""
+
+#: Template/Empresas/add.ctp:166
+#: Template/Empresas/edit.ctp:165
+#: Template/Empresas/index.ctp:77
+msgid "Contato"
+msgstr ""
+
+#: Template/Empresas/add.ctp:170
+#: Template/Empresas/edit.ctp:169
+#: Template/Users/add.ctp:52
+#: Template/Users/edit.ctp:41
+#: Template/Users/index.ctp:71
+#: Template/Users/perfil.ctp:46;89
+msgid "Telefone"
+msgstr ""
+
+#: Template/Empresas/add.ctp:174
+#: Template/Empresas/edit.ctp:173
+#: Template/Users/index.ctp:72
+#: Template/Users/perfil.ctp:51;92
+msgid "E-mail"
+msgstr ""
+
+#: Template/Empresas/add.ctp:342
+#: Template/Empresas/edit.ctp:338
+#: Template/Users/add.ctp:112
+#: Template/Users/edit.ctp:97
+#: Template/Users/index.ctp:87
+msgid "Ativo"
+msgstr ""
+
+#: Template/Empresas/add.ctp:366
+#: Template/Empresas/edit.ctp:361
+#: Template/Produtos/altstatus.ctp:166
+#: Template/Produtos/altstatuspedido.ctp:21
+#: Template/Tiposvidros/add.ctp:61
+#: Template/Tiposvidros/edit.ctp:57
+#: Template/Users/add.ctp:146
+#: Template/Users/edit.ctp:136
+msgid "Voltar"
+msgstr ""
+
+#: Template/Empresas/add.ctp:367;389
+#: Template/Empresas/edit.ctp:362
+#: Template/Tiposvidros/add.ctp:62
+#: Template/Tiposvidros/edit.ctp:58
+#: Template/Users/add.ctp:209
+#: Template/Users/edit.ctp:137
+#: Template/Users/perfil.ctp:175
+msgid "Salvar"
+msgstr ""
+
+#: Template/Empresas/add.ctp:380;482
+#: Template/Empresas/edit.ctp:375;473;495
+#: Template/Produtos/altstatus.ctp:183;208;377
+#: Template/Users/add.ctp:201;225
+#: Template/Users/edit.ctp:205
+#: Template/Users/perfil.ctp:186;255
+msgid "Atenção"
+msgstr ""
+
+#: Template/Empresas/add.ctp:383
+msgid "Tem certeza que deseja cadastrar essa empresa?"
+msgstr ""
+
+#: Template/Empresas/add.ctp:485
+#: Template/Empresas/edit.ctp:498
+#: Template/Users/edit.ctp:208
+#: Template/Users/perfil.ctp:258
+msgid "Tem certeza que deseja sair dessa página sem salvar? Você perderá as informações alteradas."
+msgstr ""
+
+#: Template/Empresas/add.ctp:489
+#: Template/Empresas/edit.ctp:383;481;503
+#: Template/Produtos/altstatus.ctp:192;217;385
+#: Template/Users/add.ctp:232
+#: Template/Users/edit.ctp:212
+#: Template/Users/perfil.ctp:194;262
+msgid "Continuar"
+msgstr ""
+
+#: Template/Empresas/edit.ctp:126
+#: Template/Empresas/index.ctp:71
+msgid "CNPJ"
+msgstr ""
+
+#: Template/Empresas/edit.ctp:378
+msgid "Tem certeza que deseja alterar as informações?"
+msgstr ""
+
+#: Template/Empresas/edit.ctp:476
+msgid "Ao inativar uma empresa todos os funcionários atrelados a ela também serão inativados e perderão acesso ao sistema."
+msgstr ""
+
+#: Template/Empresas/index.ctp:7
+msgid "Cadastrar empresas"
+msgstr ""
+
+#: Template/Empresas/index.ctp:33
+#: Template/Produtos/index.ctp:97
+#: Template/Produtos/relatorio.ctp:140
+#: Template/Users/index.ctp:36
+msgid "Sua pesquisa não retornou nenhum resultado, tente pesquisar novamente com outro termo."
+msgstr ""
+
+#: Template/Empresas/index.ctp:39
+#: Template/Tiposvidros/index.ctp:41
+msgid "Empresas do sistema"
+msgstr ""
+
+#: Template/Empresas/index.ctp:53
+msgid "Digite o nome da empresa"
+msgstr ""
+
+#: Template/Empresas/index.ctp:68
+msgid "Nome fantasia"
+msgstr ""
+
+#: Template/Empresas/index.ctp:70
+msgid "Empresa principal"
+msgstr ""
+
+#: Template/Empresas/index.ctp:78
+#: Template/Produtos/index.ctp:119
+#: Template/Produtos/relatorio.ctp:209
+#: Template/Users/index.ctp:73
+msgid "Status"
+msgstr ""
+
+#: Template/Empresas/index.ctp:86
+msgid "<td></td>"
+msgstr ""
+
+#: Template/Empresas/index.ctp:87
+msgid "<td>Cebrace</td>"
+msgstr ""
+
+#: Template/Layout/default.ctp:95;176
+#: Template/Produtos/index.ctp:8
+msgid "Gerenciar pedidos"
+msgstr ""
+
+#: Template/Layout/default.ctp:98
+msgid "Meus pedidos"
+msgstr ""
+
+#: Template/Layout/default.ctp:106
+msgid "Fazer pedido"
+msgstr ""
+
+#: Template/Layout/default.ctp:117
+msgid "Editar perfil"
+msgstr ""
+
+#: Template/Layout/default.ctp:122;202
+msgid "Sair"
+msgstr ""
+
+#: Template/Layout/default.ctp:179
+msgid "Meus Pedidos"
+msgstr ""
+
+#: Template/Layout/login.ctp:6
+msgid "Sistema de Pedidos | Janelas Habitat"
+msgstr ""
+
+#: Template/Pedidos/gerar.ctp:4
+msgid "Gerando pedido"
+msgstr ""
+
+#: Template/Pedidos/index.ctp:3
+msgid "Lista de pedidos"
+msgstr ""
+
+#: Template/Pedidos/index.ctp:21
+msgid "Aguardando confirmacao da adiminstracao"
+msgstr ""
+
+#: Template/Pedidos/index.ctp:21
+msgid "Pedido Recebido"
+msgstr ""
+
+#: Template/Produtos/add.ctp:4;11
+#: Template/Produtos/altstatus.ctp:11
+#: Template/Produtos/altstatuspedido.ctp:5;12
+msgid "Novo pedido"
+msgstr ""
+
+#: Template/Produtos/add.ctp:31
+#: Template/Produtos/altstatus.ctp:25
+#: Template/Produtos/altstatuspedido.ctp:35
+msgid "Medida da janela"
+msgstr ""
+
+#: Template/Produtos/add.ctp:78
+msgid "Escolha a medida"
+msgstr ""
+
+#: Template/Produtos/add.ctp:87;163;170;252;262;272
+#: Template/Produtos/index.ctp:62;73
+#: Template/Produtos/relatorio.ctp:71;77;88;95;105;114;160;163;168;173;178;184
+#: Template/Users/add.ctp:68;71
+msgid "Selecione"
+msgstr ""
+
+#: Template/Produtos/add.ctp:96;103
+msgid "Medida especial"
+msgstr ""
+
+#: Template/Produtos/add.ctp:144
+#: Template/Produtos/altstatus.ctp:234
+#: Template/Produtos/altstatuspedido.ctp:145
+msgid "Configurações do pedido"
+msgstr ""
+
+#: Template/Produtos/add.ctp:154;156
+#: Template/Produtos/altstatus.ctp:241
+#: Template/Produtos/altstatuspedido.ctp:152
+msgid "Quantidade de janelas"
+msgstr ""
+
+#: Template/Produtos/add.ctp:161
+#: Template/Produtos/altstatus.ctp:248
+#: Template/Produtos/altstatuspedido.ctp:159
+msgid "Quantidade de folhas"
+msgstr ""
+
+#: Template/Produtos/add.ctp:169
+#: Template/Produtos/relatorio.ctp:206
+msgid "Tipo de vidro"
+msgstr ""
+
+#: Template/Produtos/add.ctp:179
+msgid "Vidro especial"
+msgstr ""
+
+#: Template/Produtos/add.ctp:182
+msgid "Descreva o vidro especial"
+msgstr ""
+
+#: Template/Produtos/add.ctp:251
+#: Template/Produtos/altstatus.ctp:271
+#: Template/Produtos/altstatuspedido.ctp:182
+#: Template/Produtos/index.ctp:117
+msgid "Capas de acabamento"
+msgstr ""
+
+#: Template/Produtos/add.ctp:261
+msgid "Cor de acabamento interno"
+msgstr ""
+
+#: Template/Produtos/add.ctp:271
+msgid "Cor de acabamento externo"
+msgstr ""
+
+#: Template/Produtos/add.ctp:278
+msgid "Cor de acabamento especial (Interno e/ou Externo)"
+msgstr ""
+
+#: Template/Produtos/add.ctp:281
+msgid "Descreva a cor de acabamento especial (Interno e/ou Externo)"
+msgstr ""
+
+#: Template/Produtos/add.ctp:286
+#: Template/Produtos/altstatus.ctp:309
+#: Template/Produtos/altstatuspedido.ctp:220
+msgid "Transportadora"
+msgstr ""
+
+#: Template/Produtos/add.ctp:287
+msgid "Informe os dados da transportadora (endereço completo, telefone, e-mail etc)"
+msgstr ""
+
+#: Template/Produtos/add.ctp:300
+msgid "Solicitar pedido"
+msgstr ""
+
+#: Template/Produtos/add.ctp:320
+msgid "Você já conferiu todas as informações? Após você confirmar a solicitação deste pedido, ele não poderá mais ser editado. Caso seja necessário cancelamento do pedido, entre em contato com a Avec Design no telefone +55 11 4422.4722 ou pelo e-mail avec@avec.com.br"
+msgstr ""
+
+#: Template/Produtos/add.ctp:323
+msgid "Conferir novamente"
+msgstr ""
+
+#: Template/Produtos/add.ctp:325
+msgid "Ok, solicitar pedido"
+msgstr ""
+
+#: Template/Produtos/add.ctp:355
+#: Template/Users/add.ctp:228
+msgid "Tem certeza que deseja sair dessa página? Você perderá todas as informações. "
+msgstr ""
+
+#: Template/Produtos/add.ctp:358
+msgid "continuar"
+msgstr ""
+
+#: Template/Produtos/altstatus.ctp:31
+#: Template/Produtos/altstatuspedido.ctp:41
+#: Template/Produtos/index.ctp:113
+#: Template/Produtos/relatorio.ctp:203
+msgid "Medida"
+msgstr ""
+
+#: Template/Produtos/altstatus.ctp:32;80;258
+#: Template/Produtos/altstatuspedido.ctp:42;89;169
+#: Template/Produtos/index.ctp:127;129
+#: Template/Produtos/relatorio.ctp:218;222
+msgid "Especial"
+msgstr ""
+
+#: Template/Produtos/altstatus.ctp:135
+msgid "Status do pedido"
+msgstr ""
+
+#: Template/Produtos/altstatus.ctp:148
+msgid "Alterar status do pedido"
+msgstr ""
+
+#: Template/Produtos/altstatus.ctp:169
+msgid "Cancelar pedido"
+msgstr ""
+
+#: Template/Produtos/altstatus.ctp:170
+msgid "Salvar novo status"
+msgstr ""
+
+#: Template/Produtos/altstatus.ctp:186
+msgid "Tem certeza que deseja alterar o status deste pedido?"
+msgstr ""
+
+#: Template/Produtos/altstatus.ctp:211
+msgid "Tem certeza que deseja cancelar este pedido? Está ação não poderá ser desfeita."
+msgstr ""
+
+#: Template/Produtos/altstatus.ctp:255
+#: Template/Produtos/altstatuspedido.ctp:166
+msgid "Tipo do vidro"
+msgstr ""
+
+#: Template/Produtos/altstatus.ctp:263
+#: Template/Produtos/altstatuspedido.ctp:174
+#: Template/Produtos/index.ctp:116
+msgid "Fecho"
+msgstr ""
+
+#: Template/Produtos/altstatus.ctp:266
+#: Template/Produtos/altstatuspedido.ctp:177
+#: Template/Produtos/index.ctp:130
+msgid "Esquerdo"
+msgstr ""
+
+#: Template/Produtos/altstatus.ctp:266
+#: Template/Produtos/altstatuspedido.ctp:177
+#: Template/Produtos/index.ctp:130
+msgid "Direito"
+msgstr ""
+
+#: Template/Produtos/altstatus.ctp:279
+#: Template/Produtos/altstatuspedido.ctp:190
+#: Template/Produtos/index.ctp:118
+#: Template/Produtos/relatorio.ctp:208
+msgid "Cor de acabamento"
+msgstr ""
+
+#: Template/Produtos/altstatus.ctp:287;294;296;298
+#: Template/Produtos/altstatuspedido.ctp:198;205;207;209
+#: Template/Produtos/index.ctp:137;144;146;148
+#: Template/Produtos/relatorio.ctp:230;237;239;241
+msgid "Externo: "
+msgstr ""
+
+#: Template/Produtos/altstatus.ctp:289;301
+#: Template/Produtos/altstatuspedido.ctp:200;212
+#: Template/Produtos/index.ctp:139;151
+#: Template/Produtos/relatorio.ctp:232;244
+msgid "Especial: "
+msgstr ""
+
+#: Template/Produtos/altstatus.ctp:294;296;298
+#: Template/Produtos/altstatuspedido.ctp:205;207;209
+#: Template/Produtos/index.ctp:144;146;148
+#: Template/Produtos/relatorio.ctp:237;239;241
+msgid "Interno: "
+msgstr ""
+
+#: Template/Produtos/altstatus.ctp:380
+msgid "Tem certeza que deseja sair dessa página sem salvar o novo status do pedido?"
+msgstr ""
+
+#: Template/Produtos/index.ctp:34;83
+#: Template/Produtos/relatorio.ctp:33;125
+msgid "Filtrar"
+msgstr ""
+
+#: Template/Produtos/index.ctp:46
+msgid "Por número do pedido:"
+msgstr ""
+
+#: Template/Produtos/index.ctp:48
+msgid "Digite o número do pedido"
+msgstr ""
+
+#: Template/Produtos/index.ctp:52
+msgid "Por usuário"
+msgstr ""
+
+#: Template/Produtos/index.ctp:54
+#: Template/Produtos/relatorio.ctp:64;158
+#: Template/Users/index.ctp:54
+msgid "Digite o nome do usuário"
+msgstr ""
+
+#: Template/Produtos/index.ctp:61
+#: Template/Produtos/relatorio.ctp:70
+msgid "Por empresa"
+msgstr ""
+
+#: Template/Produtos/index.ctp:110
+#: Template/Produtos/relatorio.ctp:200
+msgid "Usuário"
+msgstr ""
+
+#: Template/Produtos/index.ctp:111
+msgid "Número pedido"
+msgstr ""
+
+#: Template/Produtos/index.ctp:112
+msgid "QTD."
+msgstr ""
+
+#: Template/Produtos/index.ctp:114
+msgid "Folhas"
+msgstr ""
+
+#: Template/Produtos/index.ctp:115
+msgid "Vidro"
+msgstr ""
+
+#: Template/Produtos/relatorio.ctp:46
+msgid "Por período:"
+msgstr ""
+
+#: Template/Produtos/relatorio.ctp:62
+msgid "Por usuário:"
+msgstr ""
+
+#: Template/Produtos/relatorio.ctp:76
+msgid "Por medida:"
+msgstr ""
+
+#: Template/Produtos/relatorio.ctp:87
+msgid "Por tipo de vidro:"
+msgstr ""
+
+#: Template/Produtos/relatorio.ctp:94
+msgid "Por região:"
+msgstr ""
+
+#: Template/Produtos/relatorio.ctp:104
+msgid "Por acabamento"
+msgstr ""
+
+#: Template/Produtos/relatorio.ctp:111
+msgid "Status:"
+msgstr ""
+
+#: Template/Produtos/relatorio.ctp:188
+msgid "Exportar .CSV"
+msgstr ""
+
+#: Template/Produtos/relatorio.ctp:199
+msgid "Data"
+msgstr ""
+
+#: Template/Produtos/relatorio.ctp:201
+#: Template/Users/add.ctp:68
+#: Template/Users/edit.ctp:54
+#: Template/Users/index.ctp:70
+#: Template/Users/perfil.ctp:39;94
+msgid "Empresa"
+msgstr ""
+
+#: Template/Produtos/relatorio.ctp:202
+msgid "Região"
+msgstr ""
+
+#: Template/Produtos/relatorio.ctp:204
+msgid "QTD. Janelas"
+msgstr ""
+
+#: Template/Tiposvidros/add.ctp:11
+msgid "Novo Vidro"
+msgstr ""
+
+#: Template/Tiposvidros/add.ctp:39
+#: Template/Tiposvidros/edit.ctp:35
+#: Template/Tiposvidros/index.ctp:50
+msgid "ID"
+msgstr ""
+
+#: Template/Tiposvidros/add.ctp:43
+#: Template/Tiposvidros/edit.ctp:39
+msgid "nome Brasil"
+msgstr ""
+
+#: Template/Tiposvidros/add.ctp:46
+#: Template/Tiposvidros/edit.ctp:42
+msgid "nome Espanhol"
+msgstr ""
+
+#: Template/Tiposvidros/add.ctp:50
+#: Template/Tiposvidros/edit.ctp:46
+msgid "ordem"
+msgstr ""
+
+#: Template/Tiposvidros/index.ctp:7
+msgid "Cadastrar Vidro"
+msgstr ""
+
+#: Template/Tiposvidros/index.ctp:14
+msgid "tipovidro"
+msgstr ""
+
+#: Template/Tiposvidros/index.ctp:31
+msgid "Nova Tiposvidros"
+msgstr ""
+
+#: Template/Tiposvidros/index.ctp:51
+msgid "nome BR"
+msgstr ""
+
+#: Template/Tiposvidros/index.ctp:52
+msgid "nome ES"
+msgstr ""
+
+#: Template/Tiposvidros/index.ctp:53
+msgid "Ordem"
+msgstr ""
+
+#: Template/Users/add.ctp:5
+#: Template/Users/index.ctp:28
+msgid "Novo usuário"
+msgstr ""
+
+#: Template/Users/add.ctp:9
+msgid "Usurios"
+msgstr ""
+
+#: Template/Users/add.ctp:49
+#: Template/Users/edit.ctp:38
+#: Template/Users/perfil.ctp:86
+msgid "Nome Completo"
+msgstr ""
+
+#: Template/Users/add.ctp:71
+#: Template/Users/edit.ctp:57
+#: Template/Users/perfil.ctp:56;100
+msgid "Permissão"
+msgstr ""
+
+#: Template/Users/add.ctp:73
+#: Template/Users/edit.ctp:58
+#: Template/Users/perfil.ctp:61;106;112
+msgid "Administrador"
+msgstr ""
+
+#: Template/Users/add.ctp:75
+#: Template/Users/edit.ctp:60
+#: Template/Users/perfil.ctp:65;114
+msgid "Relatório"
+msgstr ""
+
+#: Template/Users/add.ctp:92
+#: Template/Users/edit.ctp:77
+#: Template/Users/index.ctp:74
+#: Template/Users/perfil.ctp:118
+msgid "Idioma"
+msgstr ""
+
+#: Template/Users/add.ctp:100
+#: Template/Users/edit.ctp:86
+#: Template/Users/perfil.ctp:127
+msgid " Português - BR"
+msgstr ""
+
+#: Template/Users/add.ctp:100
+#: Template/Users/edit.ctp:86
+#: Template/Users/perfil.ctp:127
+msgid " Espanhol"
+msgstr ""
+
+#: Template/Users/add.ctp:151
+msgid "Cadastrar"
+msgstr ""
+
+#: Template/Users/add.ctp:204
+msgid "Tem certeza que deseja cadastrar este usuário?"
+msgstr ""
+
+#: Template/Users/alterarsenha.ctp:3;28
+#: Template/Users/perfil.ctp:77
+msgid "Alterar senha"
+msgstr ""
+
+#: Template/Users/alterarsenha.ctp:3
+msgid "Digite e confirme sua nova senha."
+msgstr ""
+
+#: Template/Users/alterarsenha.ctp:12
+#: Template/Users/login.ctp:24
+#: Template/Users/perfil.ctp:144
+#: Template/Users/senhanovousuario.ctp:13
+msgid "placeholder=\"Senha\""
+msgstr ""
+
+#: Template/Users/alterarsenha.ctp:21
+#: Template/Users/perfil.ctp:148
+#: Template/Users/senhanovousuario.ctp:21
+msgid "placeholder=\"Confirme a senha\""
+msgstr ""
+
+#: Template/Users/alterarsenha.ctp:36
+#: Template/Users/esquecisenha.ctp:29
+#: Template/Users/retornoesquecisenha.ctp:5
+#: Template/Users/senhanovousuario.ctp:37
+msgid "Voltar para o login"
+msgstr ""
+
+#: Template/Users/edit.ctp:115
+msgid "Este usuário está inativo, pois a empresa atrelada à ele está inativa. \n                                 Para ativar este usuário, a empresa atrelada à ele também deve ser ativada novamente."
+msgstr ""
+
+#: Template/Users/esquecisenha.ctp:4
+msgid "Precisa de uma nova senha?"
+msgstr ""
+
+#: Template/Users/esquecisenha.ctp:4
+msgid "Digite seu endereço de e-mail e lhe enviaremos instruções de como alterar a sua senha."
+msgstr ""
+
+#: Template/Users/esquecisenha.ctp:14
+#: Template/Users/login.ctp:17
+msgid "placeholder=\"E-mail\""
+msgstr ""
+
+#: Template/Users/esquecisenha.ctp:21
+msgid "Obter nova senha"
+msgstr ""
+
+#: Template/Users/index.ctp:8
+msgid "Cadastrar usuários"
+msgstr ""
+
+#: Template/Users/index.ctp:42
+msgid "Usuários do sistema"
+msgstr ""
+
+#: Template/Users/index.ctp:69
+msgid "Nome completo"
+msgstr ""
+
+#: Template/Users/index.ctp:86
+msgid "Inativo"
+msgstr ""
+
+#: Template/Users/index.ctp:90
+msgid "Português - BR"
+msgstr ""
+
+#: Template/Users/index.ctp:91
+msgid "Espanhol"
+msgstr ""
+
+#: Template/Users/login.ctp:7;45
+msgid "Entrar"
+msgstr ""
+
+#: Template/Users/login.ctp:7
+msgid "Faça o login para começar a sua sessão."
+msgstr ""
+
+#: Template/Users/login.ctp:53
+msgid "Esqueci minha senha"
+msgstr ""
+
+#: Template/Users/perfil.ctp:9
+#: View/Helper/HtmlHelper.php:770
+msgid "Home"
+msgstr ""
+
+#: Template/Users/perfil.ctp:35
+msgid "Minhas informações"
+msgstr ""
+
+#: Template/Users/perfil.ctp:76
+msgid "Alterar informações"
+msgstr ""
+
+#: Template/Users/perfil.ctp:108
+msgid "Relatário"
+msgstr ""
+
+#: Template/Users/perfil.ctp:112
+msgid "Poderá visualizar pedidos, alterar status dos pedidos, cadastrar empresas, cadastrar usuários e visualizar relatórios."
+msgstr ""
+
+#: Template/Users/perfil.ctp:113
+msgid "Poderá visualizar seus pedidos e solicitar pedidos."
+msgstr ""
+
+#: Template/Users/perfil.ctp:114
+msgid "Poderá visualizar relatórios."
+msgstr ""
+
+#: Template/Users/perfil.ctp:145;153
+msgid "Senha"
+msgstr ""
+
+#: Template/Users/perfil.ctp:149;160
+msgid "Confirme"
+msgstr ""
+
+#: Template/Users/perfil.ctp:174
+msgid "Voltar para o início"
+msgstr ""
+
+#: Template/Users/perfil.ctp:189
+msgid "Você alterou algumas informações do seu cadastro. Deseja salvar?"
+msgstr ""
+
+#: Template/Users/retornoesquecisenha.ctp:3
+msgid "Veja sua caixa de entrada"
+msgstr ""
+
+#: Template/Users/retornoesquecisenha.ctp:3
+msgid "Enviamos um e-mail contendo instruções sobre como alterar sua senha para o endereço de e-mail que você nos passou."
+msgstr ""
+
+#: Template/Users/senhanovousuario.ctp:4;28
+msgid "Criar senha"
+msgstr ""
+
+#: Template/Users/senhanovousuario.ctp:4
+msgid "Seja bem-vindo, digite e confirme a senha que deseja utilizar para acessar o sistema."
+msgstr ""
+
+#: Template/Error/error400.ctp:36
+#: Template/Error/error500.ctp:41
+msgid "Error"
+msgstr ""
+
+#: Template/Error/error400.ctp:38
+msgid "The requested address %s was not found on this server."
+msgstr ""
+
+#: Template/Error/error500.ctp:39
+msgid "An Internal Error Has Occurred"
+msgstr ""
+
+#: Controller/Component/AuthComponent.php:454
+msgid "You are not authorized to access that location."
+msgstr ""
+
+#: Controller/Component/CsrfComponent.php:154
+msgid "Missing CSRF token cookie"
+msgstr ""
+
+#: Controller/Component/CsrfComponent.php:158
+msgid "CSRF token mismatch."
+msgstr ""
+
+#: Error/ExceptionRenderer.php:247
+msgid "Not Found"
+msgstr ""
+
+#: Error/ExceptionRenderer.php:249
+msgid "An Internal Error Has Occurred."
+msgstr ""
+
+#: I18n/Number.php:89
+msgid "{0,number,#,###.##} KB"
+msgstr ""
+
+#: I18n/Number.php:91
+msgid "{0,number,#,###.##} MB"
+msgstr ""
+
+#: I18n/Number.php:93
+msgid "{0,number,#,###.##} GB"
+msgstr ""
+
+#: I18n/Number.php:95
+msgid "{0,number,#,###.##} TB"
+msgstr ""
+
+#: I18n/Number.php:87
+msgid "{0,number,integer} Byte"
+msgid_plural "{0,number,integer} Bytes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} from now"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:82
+msgid "{0} after"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:82
+msgid "{0} before"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:113
+msgid "just now"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:150
+msgid "about a second ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:151
+msgid "about a minute ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:152
+msgid "about an hour ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:153;328
+msgid "about a day ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:154;329
+msgid "about a week ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:155;330
+msgid "about a month ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:156;331
+msgid "about a year ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:166
+msgid "in about a second"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:167
+msgid "in about a minute"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:168
+msgid "in about an hour"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:169;341
+msgid "in about a day"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:170;342
+msgid "in about a week"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:171;343
+msgid "in about a month"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:172;344
+msgid "in about a year"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:300
+msgid "today"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:364
+msgid "%s ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:365
+msgid "on %s"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:47;125;312
+msgid "{0} year"
+msgid_plural "{0} years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:51;128;315
+msgid "{0} month"
+msgid_plural "{0} months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:57;131;318
+msgid "{0} week"
+msgid_plural "{0} weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:59;134;321
+msgid "{0} day"
+msgid_plural "{0} days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:64;137
+msgid "{0} hour"
+msgid_plural "{0} hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:68;140
+msgid "{0} minute"
+msgid_plural "{0} minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:72;143
+msgid "{0} second"
+msgid_plural "{0} seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: Network/Response.php:1417
+msgid "The requested file was not found"
+msgstr ""
+
+#: ORM/RulesChecker.php:50
+msgid "This value is already in use"
+msgstr ""
+
+#: ORM/RulesChecker.php:84
+msgid "This value does not exist"
+msgstr ""
+
+#: ORM/RulesChecker.php:107
+msgid "The count does not match {0}{1}"
+msgstr ""
+
+#: Utility/Text.php:744
+msgid "and"
+msgstr ""
+
+#: Validation/Validator.php:103
+msgid "This field is required"
+msgstr ""
+
+#: Validation/Validator.php:104
+msgid "This field cannot be left empty"
+msgstr ""
+
+#: Validation/Validator.php:1501
+msgid "The provided value is invalid"
+msgstr ""
+
+#: View/Helper/FormHelper.php:947
+msgid "New %s"
+msgstr ""
+
+#: View/Helper/FormHelper.php:950
+msgid "Edit %s"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1770
+msgid "Submit"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:530
+msgid "January"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:531
+msgid "February"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:532
+msgid "March"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:533
+msgid "April"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:534
+msgid "May"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:535
+msgid "June"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:536
+msgid "July"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:537
+msgid "August"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:538
+msgid "September"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:539
+msgid "October"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:540
+msgid "November"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:541
+msgid "December"
+msgstr ""
+
